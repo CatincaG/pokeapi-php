@@ -1,0 +1,53 @@
+body
+{
+    background: powderblue;
+    font-family: 'Rubik', sans-serif;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1
+{
+    font-size: 42px;
+}
+
+h4
+{
+    margin: 56px 0 20px 0;
+}
+
+.button
+{
+    margin-top: 20px;
+    text-align: center;
+    background: #471187;
+    width: 120px;
+    height: 32px;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+
+.button a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td
+{
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #305F66;
+}
